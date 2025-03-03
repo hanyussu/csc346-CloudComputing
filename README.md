@@ -1,2 +1,2 @@
 # csc346-CloudComputing
-## Ricky 
+## Activity 7 - Ricky Su 
